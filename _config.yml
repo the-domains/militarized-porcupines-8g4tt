@@ -16,3 +16,6 @@ navigation:
   - name: bild
     id: 35b24b43-63c7-42f2-9857-7ec90d7d9507
     type: content
+  - name: Airbnb's Coolest Tiny Houses in America
+    id: 3deb5129-90e4-48e0-9629-a2927d8d8315
+    type: content
