@@ -12,3 +12,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 name: militarized porcupines
+navigation:
+  - name: bild
+    id: 35b24b43-63c7-42f2-9857-7ec90d7d9507
+    type: content
